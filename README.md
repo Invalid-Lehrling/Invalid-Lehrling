@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm InvalidLehrling</h1>
 <h3 align="center">Ich bin ein 16 Jähriger Developer, welcher sämtliche Arten von Programmen, Websites</h3>
 
-- 🔭 Mein aktuelles Projekt [Frenky Discord Bot](https://discord.com/oauth2/authorize?client_id=1097176283198279820&permissions=8&scope=bot%20applications.commands)
+- 🔭 Mein aktuelles Projekt [Football Stats](https://discord.com/oauth2/authorize?client_id=1137891614992371944&permissions=0&scope=applications.commands%20bot)
 
-- ❓ Support Für Mein Projekt [Frenky Support Server](https://discord.gg/xsqv57JnF4)
+- ❓ Support Für Mein Projekt [Fußball DE](https://discord.gg/gjEUBHzNta)
 
 - 👾 Mein Beruf [Fachinformatiker für Anwendungsentwicklung](https://www.ihk.de/nordwestfalen/bildung/ausbildung/ausbildungsberufe-a-z/fachinformatiker-anwendungsentwicklung-4767738)
 
