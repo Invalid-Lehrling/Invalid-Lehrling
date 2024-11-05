@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm InvalidLehrling</h1>
-<h3 align="center">Ich bin ein 16 Jähriger Developer, welcher sämtliche Arten von Programmen, Websites</h3>
+<h3 align="center">Ich bin ein 18 Jähriger Developer, welcher sämtliche Arten von Programmen, Websites</h3>
 
 - 🔭 Mein aktuelles Projekt [Football Stats](https://discord.com/oauth2/authorize?client_id=1137891614992371944&permissions=0&scope=applications.commands%20bot)
 
