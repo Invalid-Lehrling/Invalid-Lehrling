@@ -9,7 +9,7 @@ Ich bin ein leidenschaftlicher Softwareentwickler aus Deutschland mit Fokus auf 
 ### 🛠️ Tech Stack & Kompetenzen
 
 **Backend & Sprachen**
-- ![C#]([img.shields.io](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png)) ![Python]([img.shields.io](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png)) ![PHP]([img.shields.io](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png))
+- ![C#]([(https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png)]) ![Python]([img.shields.io](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png)) ![PHP]([img.shields.io](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png))
 - ![Laravel]([img.shields.io](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1154px-Laravel.svg.png)) (Framework für moderne Web-Apps)
 
 **Frontend & Design**
