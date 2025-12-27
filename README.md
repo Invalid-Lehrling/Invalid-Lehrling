@@ -3,7 +3,7 @@
 ### Fachinformatiker für Anwendungsentwicklung | Full-Stack Developer
 ## Aktuell angestellt als: PHP/Laravel Software-Entwickler
 
-Ich bin ein engagierter Softwareentwickler aus Deutschland mit Schwerpunkt auf der Entwicklung effizienter Web- und Desktop-Applikationen. Als angehender Fachinformatiker für Anwendungsentwicklung verbinde ich fundiertes theoretisches Wissen mit praxisnaher Projekterfahrung sowie einem hohen Anspruch an sauberen, wartbaren und performanten Code.
+Ich bin ein engagierter Softwareentwickler aus Deutschland mit Schwerpunkt auf der Entwicklung effizienter Web- und Desktop-Applikationen. Als gelernter Fachinformatiker für Anwendungsentwicklung & angestellter PHP Software Entwickler verbinde ich fundiertes theoretisches Wissen mit praxisnaher Projekterfahrung sowie einem hohen Anspruch an sauberen, wartbaren und performanten Code.
 
 ---
 
