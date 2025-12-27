@@ -1,38 +1,39 @@
-# Hallo, ich bin [Dein Name/Vorname] 👋
+# Hallo, ich bin [Dein Vorname]
 
 ### Fachinformatiker für Anwendungsentwicklung | Full-Stack Developer
 
-Ich bin ein leidenschaftlicher Softwareentwickler aus Deutschland mit Fokus auf effiziente Web-Lösungen und Desktop-Applikationen. Als angehender Fachinformatiker kombiniere ich fundiertes theoretisches Wissen mit praktischer Projekterfahrung.
+Ich bin ein engagierter Softwareentwickler aus Deutschland mit Schwerpunkt auf der Entwicklung effizienter Web- und Desktop-Applikationen. Als angehender Fachinformatiker für Anwendungsentwicklung verbinde ich fundiertes theoretisches Wissen mit praxisnaher Projekterfahrung sowie einem hohen Anspruch an sauberen, wartbaren und performanten Code.
 
 ---
 
 ### 🛠️ Tech Stack & Kompetenzen
 
-**Backend & Sprachen**
-- ![C#]([(https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png)]) ![Python]([img.shields.io](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png)) ![PHP]([img.shields.io](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png))
-- ![Laravel]([img.shields.io](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1154px-Laravel.svg.png)) (Framework für moderne Web-Apps)
+**Backend & Programmiersprachen**
+- C#, Python, PHP  
+- Laravel (Framework für moderne und skalierbare Webanwendungen)
 
-**Frontend & Design**
-- ![HTML5]([img.shields.io](https://kinsta.com/wp-content/uploads/2021/03/HTML-5-Badge-Logo.png)) ![CSS3]([img.shields.io](https://ultimatecourses.com/assets/category/css-fcba6b473cb1125595dc28163be24eb673907258b5f6f6c82967a0587a9df20c.svg)) ![JavaScript]([img.shields.io](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png))
+**Frontend & UI**
+- HTML5, CSS3, JavaScript  
+- Fokus auf nutzerfreundliche, performante und responsive Oberflächen
 
 **Datenbanken & Infrastruktur**
-- ![MySQL](https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg)
-- ![Git]([img.shields.io](https://avatars.githubusercontent.com/u/18133?s=280&v=4))
+- MySQL  
+- Git (Versionsverwaltung)
 
 ---
 
 ### 📈 Aktuelle Tätigkeit & Ziele
 
-- 🎓 **Ausbildung:** [Fachinformatiker für Anwendungsentwicklung](https://www.ihk.de/nordwestfalen/bildung/ausbildung/ausbildungsberufe-a-z/fachinformatiker-anwendungsentwicklung-4767738)
-- 🚀 **Fokus:** Vertiefung in Enterprise-Architekturen mit **Laravel** und skalierbaren **C#-Systemen**.
-- 💡 **Interessen:** Clean Code, Datenbank-Optimierung und UI/UX Design.
+- 🎓 **Ausbildung:** Fachinformatiker für Anwendungsentwicklung (IHK)
+- 🚀 **Schwerpunkte:** Entwicklung robuster Webanwendungen mit Laravel sowie skalierbarer Systeme mit C#
+- 💡 **Interessen:** Clean Code, Software-Architektur, Datenbank-Optimierung und UI/UX-Design
 
 ---
 
 ### 📫 Kontakt & Vernetzung
 
-- 🌍 **Website:** [burschenvereinehrenkranz.de]
-- 💬 **Discord:** [`Discord Hilfe`](https://discord.gg/KhEQj7hDdQ) (Für fachlichen Austausch)
+- 🌍 **Website:** burschenvereinehrenkranz.de  
+- 💬 **Discord:** [Discord Hilfe](https://discord.gg/KhEQj7hDdQ)
 
 ---
 
